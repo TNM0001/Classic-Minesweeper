@@ -21,12 +21,9 @@ The timeless classic Minesweeper game built using Python and Tkinter.
    ```
 
 3. Install dependencies:
+   #### Sike! This project only uses modules that are a part of Python's standard library, no external libraries used, no dependencies required!
 
-   ```sh
-   pip install -r requirements.txt
-   ```
-
-4. Run the game:
+5. Run the game:
 
    ```sh
    python game.py
